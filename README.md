@@ -13,4 +13,4 @@ Business analyst
 
 Project manager
 
-The classifier had been inplemented into telegram bot created by backend engineer.
+The classifier had been inplemented into telegram bot created by backend engineer. Here there's no Telegram bot code because API key is private.
